@@ -92,7 +92,7 @@
    - Do not destructure the object.
    - Do not hardcode any dynamic values.
 
-   [View Solution](#)
+   [View Solution](./03-employee-dashboard/EmployeeDashboard.tsx)
 
 ---
 
