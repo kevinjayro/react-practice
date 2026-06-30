@@ -59,7 +59,7 @@
    - Do not create an additional variable for the final total.
    - Do not hardcode any dynamic values inside the JSX.
 
-   [View Solution](#)
+   [View Solution](./02-shopping-cart-summary/ShoppingCartSummary.tsx)
 
 ---
 
