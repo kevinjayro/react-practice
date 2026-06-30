@@ -25,7 +25,7 @@
    - Render the age using a JSX expression.
    - Do not hardcode any dynamic values inside the JSX.
 
-   [View Solution](#)
+   [View Solution](./01-user-profile/UserProfile.tsx)
 
 ---
 
