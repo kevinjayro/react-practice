@@ -4,10 +4,10 @@
    Create a functional component named `Hello` that displays the following text inside a heading:
 
    ```
-   Hello React
+   Hello, World!
    ```
 
-   [View Solution](#)
+   [View Solution](./01-hello-component/Hello.tsx)
 
 ---
 
@@ -15,10 +15,10 @@
    Create a functional component named `Welcome` that renders the following heading:
 
    ```
-   Welcome to React Workbook
+   Welcome to React
    ```
 
-   [View Solution](#)
+   [View Solution](./02-welcome-component/Welcome.tsx)
 
 ---
 
@@ -29,7 +29,7 @@
    This is my first React component.
    ```
 
-   [View Solution](#)
+   [View Solution](./03-description-component/Description.tsx)
 
 ---
 
@@ -41,7 +41,7 @@
    <p>Learning React one component at a time.</p>
    ```
 
-   [View Solution](#)
+   [View Solution](./04-article-component/Article.tsx)
 
 ---
 
@@ -55,4 +55,4 @@
    </main>
    ```
 
-   [View Solution](#)
+   [View Solution](./05-simple-page-component/Page.tsx)
