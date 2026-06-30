@@ -121,7 +121,7 @@
    - Do not use `map()`.
    - Do not hardcode any dynamic values.
 
-   [View Solution](#)
+   [View Solution](./04-movie-collection/MovieCollection.tsx)
 
 ---
 
