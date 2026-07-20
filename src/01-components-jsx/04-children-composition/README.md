@@ -45,7 +45,7 @@
    - Render `children` inside the content section.
    - Do not hardcode the modal content inside the component.
 
-   [View Solution](#)
+   [View Solution](./02-modal-wrapper/Modal.tsx)
 
 ---
 
