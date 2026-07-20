@@ -160,4 +160,4 @@
    - Use JSX expressions to render every dynamic value.
    - Do not hardcode any dynamic values inside the JSX.
 
-   [View Solution](#)
+   [View Solution](./05-developer-portfolio/DeveloperPortfolio.tsx)
