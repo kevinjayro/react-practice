@@ -18,7 +18,7 @@
    - Do not hardcode any dynamic content inside the component.
    - The component should support different types of children.
 
-   [View Solution](#)
+   [View Solution](./01-card-container/Card.tsx)
 
 ---
 
