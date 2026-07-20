@@ -22,7 +22,7 @@
    - Display every value using JSX expressions.
    - Do not hardcode any dynamic values inside the component.
 
-   [View Solution](#)
+   [View Solution](./01-company-badge/CompanyBadge.tsx)
 
 ---
 
