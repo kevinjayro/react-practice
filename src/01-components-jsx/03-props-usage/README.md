@@ -109,7 +109,7 @@
    - Render every dynamic value using JSX expressions.
    - Do not hardcode any dynamic values inside the component.
 
-   [View Solution](#)
+   [View Solution](./04-course-card/CourseCard.tsx)
 
 ---
 
