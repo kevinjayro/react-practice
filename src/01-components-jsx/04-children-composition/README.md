@@ -101,7 +101,7 @@
    - Avoid passing all information through props.
    - Create reusable components that can be combined together.
 
-   [View Solution](#)
+   [View Solution](./04-dashboard-composition/DashboardExample.tsx)
 
 ---
 
