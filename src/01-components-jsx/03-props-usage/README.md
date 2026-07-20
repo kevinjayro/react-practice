@@ -78,7 +78,7 @@
    - Use template literals where appropriate.
    - Do not hardcode any dynamic values inside the component.
 
-   [View Solution](#)
+   [View Solution](./03-weather-report/WeatherReport.tsx)
 
 ---
 
