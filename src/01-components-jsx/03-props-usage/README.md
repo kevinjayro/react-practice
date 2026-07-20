@@ -139,4 +139,4 @@
    - Render every dynamic value using JSX expressions.
    - Do not hardcode any dynamic values inside the component.
 
-   [View Solution](#)
+   [View Solution](./05-restaurant-menu/RestaurantMenu.tsx)
