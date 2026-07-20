@@ -69,7 +69,7 @@
    - Keep the header and footer inside the component.
    - Do not hardcode page-specific content inside the component.
 
-   [View Solution](#)
+   [View Solution](./03-page-layout/PageLayout.tsx)
 
 ---
 
