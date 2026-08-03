@@ -133,4 +133,4 @@
    - Each section should be a reusable component.
    - Do not pass all information through props.
 
-   [View Solution](#)
+   [View Solution](./05-profile-composition/ProfileExample.tsx)
