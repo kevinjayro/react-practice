@@ -120,7 +120,7 @@
    - Keep the component readable.
    - Avoid unnecessary duplication.
 
-   [View Solution](#)
+   [View Solution](./04-admin-panel/AdminPanel.tsx)
 
 ---
 
