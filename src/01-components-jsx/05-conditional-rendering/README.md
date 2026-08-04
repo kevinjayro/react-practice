@@ -27,7 +27,7 @@
    - Use the ternary operator.
    - Keep the component simple and readable.
 
-   [View Solution](#)
+   [View Solution](./01-user-status/UserStatus.tsx)
 
 ---
 
