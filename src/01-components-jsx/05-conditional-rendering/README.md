@@ -64,7 +64,7 @@
    - Display dynamic values using JSX expressions.
    - Practice conditional rendering inside an existing structure.
 
-   [View Solution](#)
+   [View Solution](./02-product-availability/ProductAvailability.tsx)
 
 ---
 
