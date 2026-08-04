@@ -90,7 +90,7 @@
    - Do not render empty containers.
    - Practice rendering optional UI elements.
 
-   [View Solution](#)
+   [View Solution](./03-notification-message/NotificationMessage.tsx)
 
 ---
 
