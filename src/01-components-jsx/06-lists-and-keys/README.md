@@ -208,7 +208,7 @@
    - Avoid duplicated code.
    - Do not use the array index as the key.
 
-   [View Solution](#)
+   [View Solution](./04-category-navigation/CategoryNavigationExample.tsx)
 
 ---
 
