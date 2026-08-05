@@ -154,7 +154,7 @@
    - Keep the component clean and readable.
    - Do not use the array index as the key.
 
-   [View Solution](#)
+   [View Solution](./03-order-history/OrderHistoryExample.tsx)
 
 ---
 
