@@ -274,4 +274,4 @@
    - Do not use the array index as the key.
    - Combine everything learned in the previous exercises.
 
-   [View Solution](#)
+   [View Solution](./05-team-dashboard/TeamDashboardExample.tsx)
