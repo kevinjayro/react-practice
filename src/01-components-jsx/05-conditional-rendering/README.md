@@ -153,4 +153,4 @@
    - Combine multiple conditions inside the same component.
    - Avoid duplicating the main structure.
 
-   [View Solution](#)
+   [View Solution](./05-user-profile-card/UserProfileCard.tsx)
