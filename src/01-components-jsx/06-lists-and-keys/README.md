@@ -47,7 +47,7 @@
    - Keep the component clean and readable.
    - Do not use the array index as the key.
 
-   [View Solution](#)
+   [View Solution](./01-favorite-books-library/FavoriteBooksLibraryExample.tsx)
 
 ---
 
