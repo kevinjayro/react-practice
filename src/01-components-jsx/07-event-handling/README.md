@@ -49,7 +49,7 @@
    - Log the complete product for `View Details`, the product `id` for `Add to Cart`, and the product name for `Add to Wishlist`.
    - Define the product data with an appropriate TypeScript type.
 
-   [View Solution](#)
+   [View Solution](./01-product-action-panel/ProductActionPanelExample.tsx)
 
 ---
 
