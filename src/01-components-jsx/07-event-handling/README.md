@@ -82,7 +82,7 @@
    - Display `No search term entered.` when the search term is empty.
    - Display `Search term: {value}` when the search term contains text.
 
-   [View Solution](#)
+   [View Solution](./02-product-search/ProductSearch.tsx)
 
 ---
 
