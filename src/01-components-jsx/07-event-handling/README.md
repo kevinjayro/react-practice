@@ -284,4 +284,4 @@
    - Create a `Delete` action that removes only the selected task from the list.
    - Pass task IDs from the rendered buttons to the appropriate handlers using arrow functions.
 
-   [View Solution](#)
+   [View Solution](./05-interactive-task-manager/components/TaskManager.tsx)
