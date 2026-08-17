@@ -123,7 +123,7 @@
    - Use `event.preventDefault()` and log an object containing the submitted `name` and `email`.
    - Clear both input values after the form is submitted.
 
-   [View Solution](#)
+   [View Solution](./03-newsletter-signup/NewsletterSignup.tsx)
 
 ---
 
