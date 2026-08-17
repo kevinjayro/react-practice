@@ -206,7 +206,7 @@
    - Log an appropriate message for each action.
    - Define the employee data with an appropriate TypeScript type.
 
-   [View Solution](#)
+   [View Solution](./04-employee-directory-actions/EmployeeDirectoryActionsExample.tsx)
 
 ---
 
