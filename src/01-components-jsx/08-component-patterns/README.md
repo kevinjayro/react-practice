@@ -19,7 +19,7 @@
    - The parent component should decide what content is rendered.
    - Use TypeScript to type the component props.
 
-   [View Solution](#)
+   [View Solution](./01-reusable-card/CourseInfo.tsx)
 
 ---
 
