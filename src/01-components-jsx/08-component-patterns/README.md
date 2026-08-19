@@ -115,7 +115,7 @@
    - Display the current value below the input.
    - Type the props and input change event correctly with TypeScript.
 
-   [View Solution](#)
+   [View Solution](./04-controlled-search-input/SearchInputExample.tsx)
 
 ---
 
