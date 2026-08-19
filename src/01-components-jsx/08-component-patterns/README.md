@@ -143,4 +143,4 @@
    - The component should be reusable with different kinds of data.
    - Use TypeScript to correctly type the items and `renderItem` function.
 
-   [View Solution](#)
+   [View Solution](./05-flexible-list-rendering/ListExample.tsx)
