@@ -53,7 +53,7 @@
    - The `Panel` component should not contain the specific content shown above.
    - Use TypeScript to define the props.
 
-   [View Solution](#)
+   [View Solution](./02-panel-with-slots/PanelExample.tsx)
 
 ---
 
