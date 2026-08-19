@@ -89,7 +89,7 @@
    - Do not hardcode specific tab names or panel content inside the reusable components.
    - Use TypeScript to type the component props and tab values.
 
-   [View Solution](#)
+   [View Solution](./03-compound-tabs/TabsExample.tsx)
 
 ---
 
