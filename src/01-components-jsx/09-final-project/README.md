@@ -1,4 +1,4 @@
-# Mini Project – Expense Tracker
+# Final Project – Expense Tracker
 
 Build an expense management application using the concepts learned throughout Module 1.
 

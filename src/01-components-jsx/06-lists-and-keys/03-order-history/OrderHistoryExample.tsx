@@ -1,4 +1,4 @@
-import OrderHistory from './components/OrderHistory';
+import OrderHistory from './OrderHistory';
 
 const orderList = [
   {

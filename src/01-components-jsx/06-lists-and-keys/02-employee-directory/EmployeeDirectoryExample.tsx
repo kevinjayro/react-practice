@@ -1,4 +1,4 @@
-import EmployeeDirectory from './components/EmployeeDirectory';
+import EmployeeDirectory from './EmployeeDirectory';
 
 const employeeList = [
   {

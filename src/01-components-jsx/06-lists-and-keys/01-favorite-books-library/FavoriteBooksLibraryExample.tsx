@@ -1,4 +1,4 @@
-import FavoriteBooksLibrary from './components/FavoriteBooksLibrary';
+import FavoriteBooksLibrary from './FavoriteBooksLibrary';
 
 const bookList = [
   {

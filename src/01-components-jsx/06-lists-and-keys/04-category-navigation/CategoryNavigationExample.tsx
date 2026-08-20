@@ -1,4 +1,4 @@
-import CategoryNavigation from './components/CategoryNavigation';
+import CategoryNavigation from './CategoryNavigation';
 
 const categoriesList = [
   {
