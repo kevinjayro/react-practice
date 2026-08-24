@@ -66,7 +66,7 @@ const expenses = [
 </article>
 ```
 
-## Requirements
+**Requirements**
 
 - Display a list of all expenses.
 - Display the description, amount, and date of each expense.
