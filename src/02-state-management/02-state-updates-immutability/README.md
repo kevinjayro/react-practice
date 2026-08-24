@@ -110,7 +110,7 @@
    - Do not mutate the existing state array.
    - Use a functional updater when the new array depends on the previous state.
 
-   [View Solution](#)
+   [View Solution](./02-shopping-list/ShoppingList.tsx)
 
 ---
 
