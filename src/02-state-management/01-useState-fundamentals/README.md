@@ -28,7 +28,7 @@
    - Do not modify the state directly.
    - Use the functional update form (`prev => ...`) for increment and decrement.
 
-   [View Solution](#)
+   [View Solution](./01-counter/Counter.tsx)
 
 ---
 
