@@ -96,7 +96,7 @@
    - Display the current score using JSX.
    - Do not modify the state directly.
 
-   [View Solution](#)
+   [View Solution](./03-score-manager/ScoreManager.tsx)
 
 ---
 
