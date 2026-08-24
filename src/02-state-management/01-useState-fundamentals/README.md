@@ -131,7 +131,7 @@
    - Display the current quantity using JSX.
    - Do not modify the state directly.
 
-   [View Solution](#)
+   [View Solution](./04-quantity-selector/QuantitySelector.tsx)
 
 ---
 
