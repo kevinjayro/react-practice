@@ -64,7 +64,7 @@
    - Use the functional update form (`prev => ...`) to toggle the state.
    - Do not modify the state directly.
 
-   [View Solution](#)
+   [View Solution](./02-toggle/Toggle.tsx)
 
 ---
 
