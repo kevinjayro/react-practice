@@ -38,7 +38,7 @@
    - Do not mutate the existing state object.
    - Use the spread operator to preserve the existing properties.
 
-   [View Solution](#)
+   [View Solution](./01-user-profile-editor/UserProfileEditor.tsx)
 
 ---
 
