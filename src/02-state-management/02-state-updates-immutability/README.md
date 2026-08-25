@@ -252,7 +252,7 @@
    - Do not mutate the existing array or its objects.
    - Derive the number of completed todos from the current state instead of storing it separately.
 
-   [View Solution](#)
+   [View Solution](./04-todo-manager/TodoManager.tsx)
 
 ---
 
