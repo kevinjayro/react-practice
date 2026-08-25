@@ -315,6 +315,6 @@
    - Use functional state updates when the new state depends on the previous state.
    - Derive inventory counts from the current state instead of storing duplicated state.
 
-   [View Solution](#)
+   [View Solution](./05-product-inventory/ProductInventory.tsx)
 
 ---
