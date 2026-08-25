@@ -183,7 +183,7 @@
    - Do not mutate the existing array or product objects.
    - Use a functional updater for quantity updates.
 
-   [View Solution](#)
+   [View Solution](./03-shopping-cart/ShoppingCart.tsx)
 
 ---
 
