@@ -153,7 +153,7 @@
    - Do not store any of these derived values as state.
    - Handle an empty task list without producing `NaN`.
 
-   [View Solution](#)
+   [View Solution](./02-task-progress-dashboard/TaskProgressDashboard.tsx)
 
 ---
 
