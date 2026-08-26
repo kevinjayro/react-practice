@@ -71,7 +71,7 @@
    - Changing a quantity must automatically update every affected derived value.
    - A quantity cannot be reduced below `1`.
 
-   [View Solution](#)
+   [View Solution](./01-shopping-cart-summary/ShoppingCartSummary.tsx)
 
 ---
 
