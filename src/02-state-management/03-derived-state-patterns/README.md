@@ -380,4 +380,4 @@
    - Use `isComplete` to determine whether the Save button is enabled.
    - The derived information must update whenever a profile field changes.
 
-   [View Solution](#)
+   [View Solution](./05-user-profile-completion/UserProfileCompletion.tsx)
