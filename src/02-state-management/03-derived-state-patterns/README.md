@@ -217,7 +217,7 @@
    - Searching must be case-insensitive and ignore leading or trailing spaces.
    - Display an empty state when no products match.
 
-   [View Solution](#)
+   [View Solution](./03-product-catalog/ProductCatalog.tsx)
 
 ---
 
