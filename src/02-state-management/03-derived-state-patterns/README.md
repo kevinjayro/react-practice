@@ -293,7 +293,7 @@
    - An invoice is `Paid` when `paidAmount >= amount`; otherwise it is `Pending`.
    - Handle an invoice amount of `0` without producing an invalid percentage.
 
-   [View Solution](#)
+   [View Solution](./04-invoice-payment-dashboard/InvoicePaymentDashboard.tsx)
 
 ---
 
