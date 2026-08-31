@@ -54,7 +54,7 @@
    - Display accessible validation messages associated with the relevant inputs.
    - Use immutable state updates.
 
-   [View Solution](#)
+   [View Solution](./01-registration-form/RegistrationForm.tsx)
 
 ---
 
